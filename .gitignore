@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Ignore .p12 file ###
+*.p12
+
+### Ingore jenv version file ###
+.java-version
